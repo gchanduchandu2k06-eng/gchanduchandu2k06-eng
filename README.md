@@ -27,7 +27,7 @@
 
 I'm **G Chandu**, a passionate 2nd-year **Computer Science Engineering** student at **SKIT, affiliated to VTU**, Bengaluru. I love turning ideas into reality through code, content, and creativity.
 
-- 🎓 **2nd Year CSE @ SKIT | VTU**
+- 🎓 **3rd Year CSE @ SKIT | VTU**
 - 💻 Currently exploring **Full Stack Development** and **Problem Solving**
 - 🎥 Content creator on **YouTube & Instagram** — sharing my coding journey
 - 🤝 Love collaborating on interesting open-source projects
