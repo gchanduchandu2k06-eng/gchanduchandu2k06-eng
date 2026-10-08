@@ -25,7 +25,7 @@
 
 > *"I don't just write code — I craft experiences."*
 
-I'm **G Chandu**, a passionate 2nd-year **Computer Science Engineering** student at **SKIT, affiliated to VTU**, Bengaluru. I love turning ideas into reality through code, content, and creativity.
+I'm **G Chandu**, a passionate 3rd-year **Computer Science Engineering** student at **SKIT, affiliated to VTU**, Bengaluru. I love turning ideas into reality through code, content, and creativity.
 
 - 🎓 **3rd Year CSE @ SKIT | VTU**
 - 💻 Currently exploring **Full Stack Development** and **Problem Solving**
@@ -47,7 +47,7 @@ I'm **G Chandu**, a passionate 2nd-year **Computer Science Engineering** student
 ```text
 📦 Full Stack Development     ████████░░░░   In Progress
 🐍 Flask (Python Framework)   ██████░░░░░░   Growing Fast
-🧩 Problem Solving (DSA)      ███████░░░░░   Levelling Up
+🧩 Problem Solving (DSA)      ██████████░░   Levelling Up
 🌍 Open Source Contribution   ████░░░░░░░░   Just Started
 ```
 
